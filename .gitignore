@@ -1,0 +1,5 @@
+# Cliente ignore files
+
+# Server ignore files
+/server/node_modules
+/server/.env
